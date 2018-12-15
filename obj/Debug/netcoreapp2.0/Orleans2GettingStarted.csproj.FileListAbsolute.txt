@@ -1,0 +1,12 @@
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.deps.json
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.runtimeconfig.json
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.runtimeconfig.dev.json
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.dll
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.pdb
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\Orleans2GettingStarted.csprojAssemblyReference.cache
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\Orleans2GettingStarted.orleans.g.cs
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\Orleans2GettingStarted.csproj.CoreCompileInputs.cache
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\Orleans2GettingStarted.AssemblyInfoInputs.cache
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\Orleans2GettingStarted.AssemblyInfo.cs
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\Orleans2GettingStarted.dll
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\Orleans2GettingStarted.pdb

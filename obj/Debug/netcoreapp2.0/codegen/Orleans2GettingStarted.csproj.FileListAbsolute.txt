@@ -1,0 +1,14 @@
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.deps.json
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.runtimeconfig.json
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.runtimeconfig.dev.json
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.dll
+F:\Linux-Debug\123\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.pdb
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\codegen\Orleans2GettingStarted.csproj.CoreCompileInputs.cache
+F:\Linux-Debug\123\obj\Debug\netcoreapp2.0\codegen\Orleans2GettingStarted.AssemblyInfoInputs.cache
+F:\Project\TexeraOrleansPrototype\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.deps.json
+F:\Project\TexeraOrleansPrototype\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.runtimeconfig.json
+F:\Project\TexeraOrleansPrototype\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.runtimeconfig.dev.json
+F:\Project\TexeraOrleansPrototype\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.dll
+F:\Project\TexeraOrleansPrototype\bin\Debug\netcoreapp2.0\Orleans2GettingStarted.pdb
+F:\Project\TexeraOrleansPrototype\obj\Debug\netcoreapp2.0\codegen\Orleans2GettingStarted.csproj.CoreCompileInputs.cache
+F:\Project\TexeraOrleansPrototype\obj\Debug\netcoreapp2.0\codegen\Orleans2GettingStarted.AssemblyInfoInputs.cache
